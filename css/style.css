@@ -372,6 +372,7 @@ header {
     width: 280px;
     height: 300px;
     
+    
 
 }
 
@@ -384,6 +385,8 @@ header {
     font-size: 10px;
     margin-top: 80px;
     font-weight: 500;
+    
+    
 
 
 }
@@ -393,6 +396,12 @@ header {
 
 }
 
+.box_text{
+    text-align: left;
+    align-items: end;
+    padding: 20px;
+    margin-top: 80px;
+}
 
 
 
