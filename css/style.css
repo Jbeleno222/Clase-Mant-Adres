@@ -366,11 +366,8 @@ header {
     border-radius: 20px;
     margin: 14px;
     transition: all 300ms;
-    background-image: url(../img/logo_withe.jpg);
-    background-size: 300px, 280px;
-    background-repeat: no-repeat;
-    width: 280px;
-    height: 300px;
+    
+    
     
     
 
@@ -397,10 +394,10 @@ header {
 }
 
 .box_text{
-    text-align: left;
+    
     align-items: end;
     padding: 20px;
-    margin-top: 80px;
+    margin-top: 90px;
 }
 
 
